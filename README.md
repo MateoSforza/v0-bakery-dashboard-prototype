@@ -1,4 +1,4 @@
-# Bakery dashboard prototype
+# V0 ta chetao
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
